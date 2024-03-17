@@ -1,5 +1,7 @@
 # Modules Custom Cursor for React
 
+<img src="./demo.gif"/>
+
 ReactJS modules are simple but have many advantages, one of which is that you can customize them freely.
 
 ## NPM Installation
